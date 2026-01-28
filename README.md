@@ -42,5 +42,4 @@ The following tools were used during the assessment:
 
 ---
 
-## 📄 Repository Structure
 
