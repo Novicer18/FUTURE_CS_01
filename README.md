@@ -39,6 +39,8 @@ The following tools were used during the assessment:
 - **Nmap / Zenmap** – Network and port exposure analysis
 - **OWASP ZAP (Passive Scan)** – Identification of security misconfigurations and vulnerabilities without active exploitation
 - **Browser Developer Tools** – HTTP headers, cookies, and client-side inspection
+-  **Canva** – For pdf preparation 
+
 
 ---
 
